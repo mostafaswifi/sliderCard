@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sliderCardPreview/static/css/main.99b2b711.css",
+    "main.js": "/sliderCardPreview/static/js/main.59ec8ed2.js",
+    "static/media/Manrope-VariableFont_wght.ttf": "/sliderCardPreview/static/media/Manrope-VariableFont_wght.cae461b0196986f4250c.ttf",
+    "index.html": "/sliderCardPreview/index.html",
+    "static/media/icon-slider.svg": "/sliderCardPreview/static/media/icon-slider.cbca35e0d11c560ba351.svg",
+    "static/media/pattern-circles.svg": "/sliderCardPreview/static/media/pattern-circles.9f6ed14bb3b0084b05a9.svg",
+    "static/media/bg-pattern.svg": "/sliderCardPreview/static/media/bg-pattern.76d3fa7ddce078ad96b5.svg",
+    "static/media/icon-check.svg": "/sliderCardPreview/static/media/icon-check.83c38a48815855ecc2d7e233514a2a7d.svg",
+    "main.99b2b711.css.map": "/sliderCardPreview/static/css/main.99b2b711.css.map",
+    "main.59ec8ed2.js.map": "/sliderCardPreview/static/js/main.59ec8ed2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b2b711.css",
+    "static/js/main.59ec8ed2.js"
+  ]
+}
