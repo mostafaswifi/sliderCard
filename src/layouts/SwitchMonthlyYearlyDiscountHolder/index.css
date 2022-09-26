@@ -1,0 +1,6 @@
+.switch-grid{
+    display: grid;
+    grid-template-areas: '. . . . . . month switch year . . .';
+    align-items: center;
+    justify-content: space-evenly;
+}

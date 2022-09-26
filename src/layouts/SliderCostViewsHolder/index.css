@@ -1,0 +1,16 @@
+.costumGrid{
+    display: grid;
+    grid-template-areas: 'views views views views views views cost cost cost cost cost cost'
+                         'slider slider slider slider slider slider slider slider slider slider slider slider';
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+@media (max-width: 767.8px) {
+    .costumGrid{
+        display: grid;
+        grid-template-areas: 'views views views views views views views views views views views views '
+                             'slider slider slider slider slider slider slider slider slider slider slider slider'
+                             'cost cost cost cost cost cost cost cost cost cost cost cost ';
+    }
+}

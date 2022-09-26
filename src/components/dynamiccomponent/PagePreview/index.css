@@ -1,0 +1,8 @@
+.spacer{
+    letter-spacing: 2px;
+    font-size: 13px;
+}
+
+.Pnaming{
+    grid-area: views;
+}

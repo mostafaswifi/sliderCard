@@ -1,0 +1,11 @@
+.font-sizer{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+@media (max-width: 425px) {
+    .font-sizer{
+        font-size: 22px!important;
+        font-weight: bolder;
+    }
+}

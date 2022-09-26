@@ -1,0 +1,34 @@
+.ground {
+  background-image: url(../assets/imgs/pattern-circles.svg),
+    url(../assets/imgs/bg-pattern.svg);
+  background-repeat: no-repeat;
+  background-size: auto, contain;
+  background-position: center 10%, top;
+  height: 100vh;
+}
+
+@media (max-width: 991.8px) {
+  .ground {
+    background-image: url(../assets/imgs/pattern-circles.svg),
+      url(../assets/imgs/bg-pattern.svg);
+    background-repeat: no-repeat;
+    background-size: 50%, auto;
+    background-position: center 10%, 0% 0%;
+    width: 100vw;
+    height: 100vh;
+  }
+}
+
+
+@media (min-width: 768.8px) and (max-width: 991.8px) {
+    .ground {
+      background-image: url(../assets/imgs/pattern-circles.svg),
+        url(../assets/imgs/bg-pattern.svg);
+      background-repeat: no-repeat;
+      background-size: 30%, auto;
+      background-position: center 10%, 0% 0%;
+      width: 100vw;
+      height: 100vh;
+    }
+  }
+  
