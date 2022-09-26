@@ -2,7 +2,7 @@
   "name": "card-range",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mostafaswifi.github.io/sliderCardPreview",
+  "homepage": "https://mostafaswifi.github.io/sliderCard",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
